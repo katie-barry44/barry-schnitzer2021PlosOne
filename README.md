@@ -10,4 +10,6 @@ Murphy, S. J., L. D. Audino, J. Whitacre, J. L. Eck, J. W. Wenzel, S. A. Queenbo
 
 Spicer, M. E., K. F. Suess, J. W. Wenzel, and W. P. Carson. 2018. Does salvage logging erase a key physical legacy of a tornado blowdown? A case study of tree tip-up mounds. Canadian Journal of Forest Research 48:976–982.
 
+I also would like to apologize in advance for how the code is formatted! I analyzed this data in 2014 and have never gone back to fully revise it and make it sensible. 2021 Katie would write the code very differently. 
 
+If you have any questions, please contact me (Katie Barry) at barry.kt[at]gmail.com
